@@ -8,6 +8,9 @@ Merupakan proyek data analisis menggunakan E-Commerce Dataset. Tujuan dari penge
   ```shell
   git clone https://github.com/QueenChangge/python_data_analysis_learn.git
   ```
+  ```shell
+  cd cproyek_analisis_data
+  ```
 - Buat dan aktifkan virtual environment
   ```shell
   pipenv install
@@ -21,7 +24,7 @@ Merupakan proyek data analisis menggunakan E-Commerce Dataset. Tujuan dari penge
 
 ## Menjalankan aplikasi
    ```shell
-    streamlit run Dashborad/dashboard.py
+    streamlit run dashboard/dashboard.py
    ```
 
 <h3 align="center">Thank U for Coming Here!😊</h3>
