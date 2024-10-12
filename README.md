@@ -9,17 +9,13 @@ Merupakan proyek data analisis menggunakan E-Commerce Dataset. Tujuan dari penge
   git clone https://github.com/QueenChangge/python_data_analysis_learn.git
   ```
   ```shell
-  cd cproyek_analisis_data
+  cd proyek_analisis_data
   ```
-- Buat dan aktifkan virtual environment
+- Aktivasi virtual environment dan installing packages
   ```shell
+  pip install pipenv
   pipenv install
   pipenv shell
-  ```
-- Melakukan instalasi pustaka yang diperlukan
-  ```shell
-  pip install streamlit
-  pip install -r requirements.txt
   ```
 
 ## Menjalankan aplikasi
