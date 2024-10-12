@@ -23,4 +23,7 @@ Merupakan proyek data analisis menggunakan E-Commerce Dataset. Tujuan dari penge
     streamlit run dashboard/dashboard.py
    ```
 
+## URL APP
+https://simplequizapp-reo8sn7pcenptwdvbdaxna.streamlit.app/
+
 <h3 align="center">Thank U for Coming Here!😊</h3>
